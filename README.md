@@ -28,6 +28,7 @@
 | [`xss-char-probe`](https://github.com/himanshu0017/xss-char-probe) | Burp extension that probes which special characters reflect cleanly through a target — quick XSS surface mapping. |
 | [`Chrome-Google-Dorker-Extension`](https://github.com/himanshu0017/Chrome-Google-Dorker-Extension) | Chrome extension that runs a recon-oriented Google dork set against any host you visit. |
 | [`ios-penetration-testing-cheat-sheet`](https://github.com/himanshu0017/ios-penetration-testing-cheat-sheet) | A living reference for the iOS pentest workflows I actually use. |
+| [`BugBounty-Hosts`](https://github.com/himanshu0017/BugBounty-Hosts) | Host-assessment methodology — recon → ports → services → HTTP → fuzzing → diffing, with the one-liners for each step. |
 
 ## Tools & stack
 
