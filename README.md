@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/himanshu-giri-6b7131ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://acropolis.synack.com/inductees/himanshugiri"><img alt="Synack Red Team" src="https://img.shields.io/badge/Synack%20Red%20Team-000?style=flat"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=himanshu0017&style=flat&color=blue&label=Profile+views">
 </p>
 
@@ -55,7 +56,8 @@
 
 ## Connect
 
-- LinkedIn: <a href="https://www.linkedin.com/in/himanshu-giri-6b7131ba/">linkedin.com/in/himanshu-giri-6b7131ba</a> ← *replace with your URL*
+- LinkedIn: <a href="https://www.linkedin.com/in/himanshu-giri-6b7131ba/">linkedin.com/in/himanshu-giri-6b7131ba</a>
+- Synack Red Team: <a href="https://acropolis.synack.com/inductees/himanshugiri">acropolis.synack.com/inductees/himanshugiri</a>
 
 ---
 
