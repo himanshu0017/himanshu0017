@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/himanshu-giri-6b7131ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=himanshu0017&style=flat&color=blue&label=Profile+views">
 </p>
 
@@ -45,17 +45,17 @@
 ## GitHub stats
 
 <p>
-  <img alt="Stats"   src="https://github-readme-stats.vercel.app/api?username=himanshu0017&show_icons=true&hide_border=true&theme=default&count_private=false&include_all_commits=false">
-  <img alt="Streak"  src="https://streak-stats.demolab.com/?user=himanshu0017&hide_border=true">
+  <img alt="Stats"   src="https://github-readme-stats.vercel.app/api?username=himanshu0017&show_icons=true&hide_border=true&theme=tokyonight&count_private=false&include_all_commits=false">
+  <img alt="Streak"  src="https://streak-stats.demolab.com/?user=himanshu0017&theme=tokyonight&hide_border=true">
 </p>
 
 <p>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0017&layout=compact&hide_border=true">
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0017&layout=compact&hide_border=true&theme=tokyonight">
 </p>
 
 ## Connect
 
-- LinkedIn: <a href="https://www.linkedin.com/in/YOUR-HANDLE/">linkedin.com/in/YOUR-HANDLE</a> ← *replace with your URL*
+- LinkedIn: <a href="https://www.linkedin.com/in/himanshu-giri-6b7131ba/">linkedin.com/in/himanshu-giri-6b7131ba</a> ← *replace with your URL*
 
 ---
 
